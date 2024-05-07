@@ -13,7 +13,7 @@ It may not be something as useful as a real Launcher, but we do this so that we 
 
 [![image](https://github.com/Al3sKa/NexKit/assets/68668508/3f3de187-e119-4766-a930-f21dbedd3fc5)](https://www.youtube.com/watch?v=ZW3A-XAMV1E)
 
-# Just do it!
+# JUST DO IT
 **We are also very excited to see you use NexKit if it's the first time you're around. Why not give it a try? We're sure you'll love it. It's free and open-source for everyone.**
 
 [![DownloadNexKit](https://github.com/Al3sKa/NexKit/assets/68668508/9a585473-8d78-4715-b5a4-672550279bd4)](https://github.com/Al3sKa/NexKit/releases/)
