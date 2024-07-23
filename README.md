@@ -6,11 +6,9 @@ NexKit is a gaming-oriented subsystem/launcher based on PowerPoint. Let your PC 
 Whether you're a gamer looking for new interactive experiences or a media enthusiast seeking versatile customization options, NexKit's open-source platform empowers everyone to tailor their desktop environment to suit their preferences and ideas.
 
 # NexKit is in heavy development!
-### Join the Dev Army and help us build the NexKit you love.
+### Join the Dev Army and help us build the NexKit you love. Learn more about it's history down below.
 
 It's been a work-in-progress project since 2020, it all started as a PPTOS-based Project.
-
-# NexKit's Chronicles
 
 Over the past four years, I've embarked on a journey of learning and creativity, primarily focused on crafting captivating PowerPoint presentations centered around "Menus and Interfaces." It was during this time that NexKit's initial conception took shape as an add-on for a GDPS (Geometry Dash Private Server), primarily serving as a launcher and modding tool for Geometry Dash enthusiasts in the private server.
 
