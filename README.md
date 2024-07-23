@@ -1,9 +1,13 @@
 ![image](https://github.com/Al3sKa/NexKit/assets/68668508/fac6e264-3c15-4947-afc3-7e767b5e1b13)
 
+# Meet NexKit - A new way to organize your favorite apps.
+NexKit is a gaming-oriented subsystem/launcher based on PowerPoint. Let your PC transform your desktop into an interactive gaming / media center using PowerPoint as the main framework engine. Customizable and open source for everyone.
+
+Whether you're a gamer looking for new interactive experiences or a media enthusiast seeking versatile customization options, NexKit's open-source platform empowers everyone to tailor their desktop environment to suit their preferences and ideas.
+
 # NexKit is in heavy development!
 ### Join the Dev Army and help us build the NexKit you love.
 
-NexKit is a gaming-oriented subsystem/launcher based on PowerPoint.
 It's been a work-in-progress project since 2020, it all started as a PPTOS-based Project.
 
 # NexKit's Chronicles
